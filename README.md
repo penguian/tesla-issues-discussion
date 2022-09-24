@@ -14,7 +14,15 @@ The current repository cannot be used to provide a public reporting service for 
 The advantage of Tesla's method of bug reporing is that it automatically includes relevant metadata.
 The disadvantage is that it is essentailly write-only. The driver does not receive a copy of the bug report and has no way to track any actions taken to address it, unless Tesla contacts the owner of of the car directly.
 
+Tesla is well known for providing scant details about bug fixes in release notes, with the exception of Full Self Driving Beta software releases.
+Often the release notes will say nothing other than, ["This release contains minor bug fixes and improvements."](
+https://teslascope.com/teslapedia/software/2021.4.18) or will list feature changes and then say "Bug fixes," or will not mention bug fixes at all.
+
+Even when a software fix is part of a NHTSA recall, it is not always clear which Tesla software release fixed which defect.
+
 ##### Previous attempts and why they failed
+
+
 
 ##### Types of issues to report and track
 
