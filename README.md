@@ -22,7 +22,7 @@ Even when a software fix is part of a NHTSA recall, it is not always clear which
 
 ##### Previous attempts and why they failed
 
-There have been many instances of people suggesting a public bug tracking system for Tesla vehicles, either operated by Tesla or by a third party, such as a public forum, or even GitHub. As far as I know, none of these has succeeded.
+There have been [many instances](https://teslamotorsclub.com/tmc/threadloom/search?query=%22bug%20tracking%22&sort=date&tab=25) of people suggesting a public bug tracking system for Tesla vehicle software, either operated by Tesla or [by a third party](https://www.reddit.com/r/teslamotors/comments/ei6rd8/tesla_software_bugs_tracking_bugs_and_bug_fixes/), such as a public forum, or [even GitHub](https://github.com/teslacommunity/tesla-bugs). As far as I know, none of these has succeeded.
 
 Tesla has not produced such a system itself possibly because:
 1. It may not be in Tesla's best interests to have a publicly available list of known issues. Witness how news articles refer to Tesla recalls that are addressed by over the air updates.
@@ -30,7 +30,7 @@ Tesla has not produced such a system itself possibly because:
 
 Third party schemes such as forums or GitHub may have failed for various reasons:
 1. Tesla owners may be unwilling to contribute to a publicly visible bug tracking system because it may put Tesla in a bad light.
-2. Forums are too unstructured, with issues mixed in wit other discussion, and it is difficult to track the resolution of issues via such a discussion forum.
+2. Forums are too unstructured, with [issues mixed in with other discussion](https://www.reddit.com/r/TeslaLounge/comments/xjq8nk/reporting_bug_to_tesla/), and it is difficult to [track the resolution of issues](https://www.reddit.com/r/teslamotors/comments/arj0sd/sentry_mode_201953_second_update_bug_fixed/) [via such a discussion forum](https://www.reddit.com/r/teslamotors/comments/g0pw39/sentry_mode_keeps_turning_off_since_the_2020125/).
 3. The use of public systems like GitHub is too difficult to administer with respect to access controls.
 4. There may not have been enough interest in such schemes.
 
