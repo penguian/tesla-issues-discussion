@@ -64,9 +64,9 @@ Such instance reporting can highlight that:
 ##### Capturing metadata
 
 If you are reporting instances, one way to remind yourself of the time an location of occurrence is to save a TeslaCam clip.
-As stated above, Tesla's own bug reporting also automatically captures metadata, but unfortunately such metadata is not (yet?) captured with TeslaCam clips.
+As stated above, Tesla's own bug reporting also automatically captures metadata, but unfortunately only minimal metadata, such as time and location, is captured with TeslaCam clips.
 A possible exception to this is the FSD Beta program.
-Automatic capture of metadata with TeslaCam clips would greatly help instance reporting, so it should be suggested to Tesla as a feaure request.
+Automatic capture of metadata relevant metadata with TeslaCam clips would greatly help instance reporting, so it should be suggested to Tesla as a feature request.
 
 ##### Issue tracking
 
