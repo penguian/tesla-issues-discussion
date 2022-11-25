@@ -39,7 +39,7 @@ Third party schemes such as forums or GitHub may have failed for various reasons
 A Tesla issue reporting and tracking system should concentrate on issues with Tesla's in-vehicle software, especially the non-FSD Beta software. Some specific software features lend themselves to issue reporting and tracking, such as:
 1. Speed Assist via either speed sign detection, or maps, or both.
 2. Traffic light detection.
-3. Traffic egulation sign detection (e.g. stop and give way signs).
+3. Traffic regulation sign detection (e.g. stop and give way signs).
 4. Auto high beam.
 5. Auto wipers.
 
