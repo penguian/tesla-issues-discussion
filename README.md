@@ -22,7 +22,7 @@ Even when a software fix is part of a NHTSA recall, it is not always clear which
 
 ##### Previous attempts and why they failed
 
-There have been [many instances](https://teslamotorsclub.com/tmc/threadloom/search?query=%22bug%20tracking%22&sort=date&tab=25) of people suggesting a public bug tracking system for Tesla vehicle software, either operated by Tesla or [by a third party](https://www.reddit.com/r/teslamotors/comments/ei6rd8/tesla_software_bugs_tracking_bugs_and_bug_fixes/), such as a public forum, or [even GitHub](https://github.com/teslacommunity/tesla-bugs). As far as I know, none of these has succeeded.
+There have been [many instances](https://teslamotorsclub.com/tmc/threads/feature-request-tesla-feature-request-and-bug-tracking-platform.301409/) of people suggesting a public bug tracking system for Tesla vehicle software, either operated by Tesla or [by a third party](https://www.reddit.com/r/teslamotors/comments/ei6rd8/tesla_software_bugs_tracking_bugs_and_bug_fixes/), such as a public forum, or [even GitHub](https://github.com/teslacommunity/tesla-bugs). As far as I know, none of these has succeeded.
 
 Tesla has not produced such a system itself possibly because:
 1. It may not be in Tesla's best interests to have a publicly available list of known issues. Witness how news articles refer to Tesla recalls that are addressed by over the air updates.
