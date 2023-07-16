@@ -98,3 +98,30 @@ The choice of which one to use would consider factor such as:
 Ideally, if a Tesla Owners Club ran an issue tracker, it would use the same user authentication system for Club members as the Club's main web page.
 All members would have access to report issues and instances, and make comments, and possibly a smaller number of members would have the ability to close issues and perform other admin tasks.
 If Tesla Owners Clubs had some method of identifying members of sister clubs, they might be able to make their issue tracking system visible to members of all such sister clubs.
+
+#### Currently tracked issues
+
+I am currently tracking software issues with my own car at https://github.com/penguian/tesla-issues-discussion/issues using the following semi-manual methodology:
+
+Either:
+
+1. When I begin driving, I start the [Otter transcription app on my Android phone](https://play.google.com/store/apps/details?id=com.aisense.otter&hl=en&gl=US&pli=1), and transcribe all of my comments during the drive.
+2. Whenever an incident occurs, I use the [Dashcam icon on the screen](https://www.tesla.com/ownersmanual/modelx/en_us/GUID-3BCC07CE-5EA2-4F40-99D1-27690898FF3C.html) to save a clip, and I note the time and describe the issue out out so that the issue appears on the transcript.
+
+Or:
+
+1. I do not record audio, and
+2. whenever an incident occurs, I just use the Dashcam icon on the screen to save a clip, and try to remember the issue.
+
+I then:
+
+3. Remove the SSD from the car.
+4. Copy the saved clips to a hard drive on my PC. 
+5. Use [the TeslaCam video web player](https://sentrycam.appspot.com/) to review the clips, along with the Otter audio transcript, if available.
+6. When I recognize an incident as an instance of an issue, I create a comment to that issue.
+7. The comment usually includes: Specs, Version, Location, Comment, and the contents of the `event.json` file corresponding to the saved clip.
+
+
+
+
+
